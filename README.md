@@ -76,11 +76,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your.email@example.com
+Your Name - [@your_twitter_handle](https://twitter.com/Shazyansar) 
 
 Project Link: [https://github.com/saoud30/twitter-Bio-Generator](https://github.com/saoud30/Twitter-Bio-Generator)
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Shazy
 
