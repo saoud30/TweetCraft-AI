@@ -1,0 +1,26 @@
+# Ignore .env file containing sensitive information
+.env
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Streamlit-related files
+.streamlit/
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# IDE-related files (uncomment if needed)
+# .vscode/
+# .idea/
+
+# Logs
+*.log
