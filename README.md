@@ -74,13 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Groq](https://groq.com/) for their powerful AI API
 - All contributors and users of this project
 
-## 📞 Contact
-
-Your Name - [@your_twitter_handle](https://twitter.com/Shazyansar) 
-
-Project Link: [https://github.com/saoud30/twitter-Bio-Generator](https://github.com/saoud30/Twitter-Bio-Generator)
-
----
 
 Created with ❤️ by Shazy
 
